@@ -1,0 +1,2 @@
+In a nutshell, branching is a way to diverge from the current version. You want to have a new copy of your code, without copying manually.
+We can use 'git branch' to create a new branch or to list all the branches.

@@ -1,0 +1,2 @@
+Merging is the action that we do to integrate the changes made in one branch into another branch.
+Git conflict is a situation where Git cannot automatically merge changes.
